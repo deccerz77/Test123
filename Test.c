@@ -8,7 +8,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
+/*  void(main); 
+ * 
  * 
  */
 int main(int argc, char** argv) {
